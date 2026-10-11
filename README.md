@@ -1,11 +1,13 @@
 # Java_beginner_codes
 Java programs, coding exercises, and beginner projects created while learning and practicing Java.
 
-## Types of Java Operations
 
-![Java Operations](Java%20Operations%20Study%20Guide.png)
-## Java Operators
+## Types of Operations in Java
 
-![Java Operators](Pastel%20Java%20Operators%20Reference%20Chart.png)
+![Types of Operations](<type of operation in java.png>)
+
+## Java Operators — Precedence and Associativity
+
+![Java Operators](<associativity and perception.png>)
 
 
