@@ -12,6 +12,6 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## Escape Sequences in Java ##
 
-![Escape Sequences](<Escape sequence in java.png)
+![Escape Sequences](<Escape sequence in java.png>)
 
 
