@@ -14,4 +14,10 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ![Escape Sequences](<Escape sequence in java.png>)
 
+## String Methods in java
+
+![String Methods](<Uploading Java String Methods Study Guide.png>)
+>
+
+
 
