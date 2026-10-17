@@ -8,15 +8,15 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## Java Operators — Precedence and Associativity
 
-![Java Operators](<associativity and perception.png>)
+![Java Operators](<04.associativity and perception.png>)
 
 ## Escape Sequences in Java ##
 
-![Escape Sequences](<Escape sequence in java.png>)
+![Escape Sequences](<06.Escape sequence in java.png>)
 
 ## String Methods in java
 
-![String Methods](<Java String Methods Study Guide.png>)
+![String Methods](<07.Java String Methods Study Guide.png>)
 
 
 
