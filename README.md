@@ -4,7 +4,7 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## Types of Operations in Java
 
-![Types of Operations](<type of operation in java.png>)
+![Types of Operations](<03.type of operation in java.png>)
 
 ## Java Operators — Precedence and Associativity
 
