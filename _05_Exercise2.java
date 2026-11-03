@@ -1,6 +1,6 @@
  package com.company;
 import java.util.Scanner;
-public class exercise2 {
+public class _05_Exercise2 {
     public static void main (String[] args){
       
    //[ QUESTION 1 ]  
