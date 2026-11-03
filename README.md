@@ -4,11 +4,11 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## Types of Operations in Java
 
-![Types of Operations](<03.type of operation in java.png>)
+![Types of Operations](<_03_type of operation in java.png>)
 
 ## Java Operators — Precedence and Associativity
 
-![Java Operators](<04.associativity and perception.png>)
+![Java Operators](<_04_associativity and perception.png>)
 
 ## Escape Sequences in Java ##
 
