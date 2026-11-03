@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class basic1 {
+public class _01_basic1 {
     public static void main(String[] args){
       //Printing in java
         System.out.println("Hello world");
