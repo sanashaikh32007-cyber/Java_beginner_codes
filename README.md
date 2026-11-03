@@ -16,7 +16,7 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## String Methods in  ##
 
-![String Methods](<07.Java String Methods Study Guide.png>)
+![String Methods](<_07_Java String Methods Study Guide.png>)
 
 
 
