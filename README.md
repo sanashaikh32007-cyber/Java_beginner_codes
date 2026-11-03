@@ -12,7 +12,7 @@ Java programs, coding exercises, and beginner projects created while learning an
 
 ## Escape Sequences in Java ##
 
-![Escape Sequences](<06.Escape sequence in java.png>)
+![Escape Sequences](<_06_Escape sequence in java.png>)
 
 ## String Methods in  ##
 
