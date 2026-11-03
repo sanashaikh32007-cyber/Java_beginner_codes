@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class Exercise1 {
+public class _02_Exercise1 {
     public static void main(String[] args) {
 
       //taking name from the user and greeting the user
