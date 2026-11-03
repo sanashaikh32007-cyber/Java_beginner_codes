@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class DecisionMaking {
+public class _08_DecisionMaking {
     public static void main (String[] args){
         
         Scanner SC = new Scanner(System.in);
