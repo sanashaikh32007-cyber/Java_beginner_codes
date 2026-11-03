@@ -2,12 +2,12 @@ package com.company;
 import java.util.Scanner;
 public class DecisionMaking {
     public static void main (String[] args){
-      
+        
+        Scanner SC = new Scanner(System.in);
         // if else statements
         
-       Scanner ifelse = new Scanner(System.in);
         System.out.println("checking whether you are eligible to drive or not");
-        int age = ifelse.nextInt();
+        int age = SC.nextInt();
             if (age >= 18) {
                  System.out.println("You are eligible to drive!!!");
         }
@@ -17,9 +17,8 @@ public class DecisionMaking {
       
         // else if  law
       
-        Scanner elseif = new Scanner(System.in);
         System.out.println("Enter your age");
-        int age1 = elseif.nextInt();
+        int age1 = SC.nextInt();
         if (age1 <= 3) {
             System.out.println("You are a Kid");
         }
@@ -37,10 +36,9 @@ public class DecisionMaking {
         }
 
         //switch case
-
-        Scanner switches = new Scanner(System.in);
+      
         System.out.println(" Enter your age :");
-        int age2 = switches.nextInt();
+        int age2 = SC.nextInt();
 
         switch (age2){
             case  18 :
@@ -55,39 +53,42 @@ public class DecisionMaking {
             case 70 :
                 System.out.println("you are retired");
             break ;
+            default :
+                System.out.println("Hello!!!");
 
         }
 
             // Enhanced switches.
-
-        Scanner cs = new Scanner(System.in);
-        System.out.println("enter your name");
-        String var = cs.nextLine();
+        SC.nextLine();
+        System.out.println("\nenter your name");
+        String var = SC.nextLine();
         switch (var) {
-            case  "saurabh" -> {
+            case  "Saurabh" -> {
                 System.out.println("you are going to become an adult. ");
             }
-            case "saubham" -> {
+            case "Saubham" -> {
                 System.out.println("You are a teenager ");
             }
-            case  "sana" ->{
+            case  "Sana" ->{
                 System.out.println("You a super girl");
             }
-            case "faizan" -> {
+            case "Faizan" -> {
                 System.out.println("You a Spider man");
             }
-            case "sumaiya" ->  {
+            case "Sumaiya" ->  {
                 System.out.println("You a gental women ");
             }
-            case "sufiyan" ->{
+            case "Sufiyan" ->{
                 System.out.println("You a mouse");
             }
-            case "kitty" ->{
+            case "Kitty" ->{
                 System.out.println("You a cute baby");
             }
             case "Parveen" ->{
                 System.out.println("You a very strong Women");
             }
+            default :
+                System.out.println("Hello!!!");
         }
     }
 }
