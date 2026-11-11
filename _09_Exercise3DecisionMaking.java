@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class _09_Exercise4 {
+public class _09_Exercise3DecisionMaking{
     public static void main (String[] args) {
 
         Scanner SC = new Scanner (System.in);
