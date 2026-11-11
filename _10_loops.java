@@ -1,5 +1,5 @@
 package com.company;
-public class loops {
+public class _10_loops {
     public static void main (String[] args){
 
         //While loop
